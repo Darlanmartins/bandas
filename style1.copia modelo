@@ -1,0 +1,43 @@
+body{
+	background-color: #OOOOOO;
+	font-family: Tahoma;
+	font-size: 15px;
+}
+h1	{ color: #696969;
+	font-family: Tahoma;
+	font-size: 40px;
+	text-align: left; 
+}
+h2  { 
+    color: #OOOOOO;
+	font-family: Tahoma;
+	font-size: 30px;
+	text-align: left; 
+}
+h3  { 
+    color: #OOOOOO;
+	font-family: Tahoma;
+	font-size: 22px;
+	text-align: left;
+}	
+h4{
+	color: #OOOOOO;
+	font-family: Tahoma;
+	font-size: 15px;
+}
+#class1{
+	width: 70%;
+	height: 469px;
+	margin: 20 auto;
+	background: #C0C0C0;
+	float: left;
+	text-align: justify;	
+}
+.tribalistasfoto1{
+	
+	
+
+
+
+
+		

@@ -1,0 +1,24 @@
+<Html>
+	<Cabeça>
+	<Título> Índice de HTML </ title>
+	</ Cabeça>
+	<Ligação rel = "stylesheet" tipo = "test / css" href = "style.css" />   
+	
+	<Corpo>
+		< img  src = " tribalistasfoto1.jpg " width = 345  height = 233 />< img  src = " tribalistas.jpg " width = 700  height = 233 />< img  src = " tribalistasfoto2.jpg " width = 410  height = 233 />  
+	
+		<Hr align = "deixou" size = "8" />  
+		<A href = "index.html"> <h3> <u> Inicial </ u> </ a> <uma href = "carreira.html"> <u> Carreira </ u> </ a> <uma href = "top5.html"> <u> Top 5 </ u> </ a>   
+		<A href = "albuns.html"> <u> Albuns </ u> </ a> <uma href = "videos.html"> <u> Vídeos </ u> </ h3> </ a>  
+		<Hr align = "deixou" size = "8" />  
+		
+		<H1> <u> Tribalistas </ u> </ h1>
+		<Br> <h3> Essa galera É Show !!! </ h3>
+		<Ul>
+			<U> <h3> Reunindo </ h3> </ u> <img src = "tribalistasCaricatura.jpg" width = 220 altura = 180 />   
+			<Li> <b> Arnaldo Antunes </ b> </ li>
+			<Li> <b> Carlinhos Brown </ b> </ li>
+			<Li> <b> Marisa Monte </ b> </ li>
+				
+	</ Corpo>
+</ Html>
